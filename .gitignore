@@ -5,3 +5,5 @@
 __pycache__/
 
 *_private_answers.py
+solution/
+misc/
