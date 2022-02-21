@@ -41,11 +41,16 @@ Access the (updated) syllabus [here](files/cs208_spring2022_syllabus.pdf).
 | Section 1                                |                                      | [pdf](section/section1.pdf)                      |                                                                                                                 |
 | Tue 2/01                                 | Reconstruction & Membership Attacks  | [pdf](presentations/membership.pdf)              | [Smith-Ullman] Reconstruction lecture notes, Sec 1-2.1, Sec 3, [Ruggles-van Riper], [Jessica Hullman blog post] |
 | Thu 2/03                                 | Membership Attacks                   | [pdf](presentations/membership-attacks.pdf)      |                                                                 [P3G Consortium et al.],  [Korolova (§1,4,6,8)] |
-| Problem Set 2 (due Fri 2/11)             |                                      | [pdf](homework/hw2.pdf)                          |                                                                                                                 |
+| Problem Set 2 (due Fri 2/11)             |                                      | [pdf](homework/hw2.pdf)                          |    
+| Section 2                                |                                      | [pdf](section/section2.pdf)                      | 
 | **Foundations of Differential Privacy**  |
 | Tue 2/08                                 | Definition, basic mechanisms         | [pdf](presentations/DP-foundations1.pdf)         |                                                                                       [DP Primer Secs III-IV.B] |
-| Thu 2/10                                 | DP Foundations: the Laplace Mechanism| [pdf](presentations/DP-laplace.pdf)         |                                                                                       [U.S. Broadband Coverage Data Set: A Differentially Private Data Release](https://arxiv.org/pdf/2103.14035v2.pdf), [Smith-Ullman] Lecture 4, Sec 4  |
-
+| Thu 2/10                                 | DP Foundations: the Laplace Mechanism| [pdf](presentations/DP-laplace.pdf)              |                                                                                       [U.S. Broadband Coverage Data Set: A Differentially Private Data Release](https://arxiv.org/pdf/2103.14035v2.pdf), [Smith-Ullman] Lecture 4, Sec 4  |
+| Problem Set 3 (due Fri 2/18)             |                                      | [pdf](homework/hw3.pdf)                          |
+| Section 3                                |                                      | [pdf](section/section3.pdf)                      | |
+| Tue 2/15                                 | More DP Foundations                  | [pdf](presentations/DP-foundations2.pdf)         |                                                                                       [DP Primer Secs IV.C-VI.B] |
+| Thu 2/17                                 | The Gaussian Mechanism               | [pdf](presentations/DP-gaussian-mechanism.pdf)   |                                                                                       [Smith-Ullman] Lecture 5 Sec 1, Lecture 9 (Lemma 1.2), Lecture 9, Sec 2 up to Thm 2.1, Lecture 10 Sec 1. |
+| Problem Set 4 (due Fri 2/25)             |                                      | [pdf](homework/hw4.pdf)                          |
 
 [jan18:pdf]: files/course_preview.pdf
 [jan18:video]: https://harvard.zoom.us/rec/play/rNU5_swSdM3xVtAd3rTReJtniCNhE4oKY54CWsA2hIPpnt2PmZGPbO-yOvIs0NpIS9y1ilRJ6SWsvH9P.hVnF5j1z4LYMDVYM
@@ -62,3 +67,4 @@ Access the (updated) syllabus [here](files/cs208_spring2022_syllabus.pdf).
 [P3G Consortium et al.]: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000665
 [Korolova (§1,4,6,8)]: https://journalprivacyconfidentiality.org/index.php/jpc/article/view/594
 [DP Primer Secs III-IV.B]: https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf
+[DP Primer Secs IV.C-VI.B]: https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf
