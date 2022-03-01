@@ -2,8 +2,19 @@
 .idea/
 *~
 
+out/
+
 __pycache__/
 
 *_private_answers.py
+
 solution/
 misc/
+
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.log
+*.synctex.gz    
