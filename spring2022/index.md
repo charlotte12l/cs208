@@ -17,6 +17,7 @@
 * Video recordings at Panopto (access via Canvas)
 * [Annotated Course Bibliography]
 * [Guidelines for Reading and Commenting]
+* [Example Notebooks (GitHub)]
 
 [Syllabus]: https://opendp.github.io/cs208/spring2022/files/cs208_spring2022_syllabus.pdf
 [gcal]: https://calendar.google.com/calendar/u/0?cid=Y19lYjYwZ2NzcDdoZTBwamZqMG1ldGs0NnE3MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
@@ -25,6 +26,7 @@
 [reading guidelines]: files/reading_and_commenting_guidelines.pdf
 [Annotated Course Bibliography]: files/cs208_annotated_bibliography.pdf
 [Guidelines for Reading and Commenting]: https://opendp.github.io/cs208/spring2022/files/reading_and_commenting_guidelines.pdf
+[Example Notebooks (GitHub)]: https://github.com/opendp/cs208/tree/main/spring2022/examples
 
 
 ### Schedule
@@ -56,7 +58,7 @@
 | Section 5                               |                                                | [pdf](section/section5.pdf)                                     |  
 | Tue 3/1                                 | Statistical Releases: the Opportunity Atlas    | [pdf](presentations/DP_CensusSynthetic.pdf)                           | [Opportunity Atlas]; [Chetty-Friedman JPC] Sec 3                                                                |
 | Problem Set 5 (due Fri 3/4)             |                                                | [pdf](homework/hw5.pdf), [tex](homework/hw5.tex)                |
-| Tue 3/1 and Thu 3/3                     | Machine Learning with DP                       | [pdf](presentations/DP_OI_SGD.pdf)                              | [Deep Learning with DP]                                                               |
+| Tue 3/1 and Thu 3/3                     | Machine Learning with DP                       | [pdf](presentations/DP_OI_SGD.pdf)                              | [Deep Learning with DP] (Sections 1-3.1; 5.2)                                                               |
 
 
 [jan18:pdf]: files/course_preview.pdf
